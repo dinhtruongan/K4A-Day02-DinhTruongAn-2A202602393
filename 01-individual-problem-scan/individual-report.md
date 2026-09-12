@@ -4,41 +4,44 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên: Đinh Trường An
-- Mã học viên: 2A202602393
-- Vai trò / bối cảnh: Người đi làm văn phòng tại Hà Nội, có cuộc sống bận rộn.
-- Công việc & Hoạt động hằng tuần:
-  - Dùng các dịch vụ quy mô lớn: đặt phòng khách sạn qua OTA, gọi xe công nghệ đi làm/đi họp, sạc xe điện, thỉnh thoảng đi khám bệnh hoặc đưa gia đình đi khu vui chơi.
-  - Mua sắm online: thường xuyên nhắn tin hỏi hàng, check size/màu với các shop trên Facebook, Zalo.
-  - Hỗ trợ gia đình từ xa: nhắc lịch khám bệnh, lịch uống thuốc cho ông bà, làm giúp giấy tờ, và theo dõi thông báo trường học của em.
-  - Làm thủ tục hành chính: thi thoảng phải ra phường/quận công chứng giấy tờ, làm thủ tục cá nhân.
-  - Quan sát công việc của người quen: hay nghe bạn bè làm chủ shop, kế toán, HR, nhân viên tổng đài kể về nỗi khổ trong công việc hàng ngày của họ.
+* **Họ và tên:** Đinh Trường An
+* **Mã học viên:** 2A202602393
+* **Vai trò / bối cảnh:** Học viên chương trình AI20K
+
+### Công việc hằng tuần / nơi quan sát problem
+
+* **Sử dụng các dịch vụ quy mô lớn:** Gọi xe công nghệ, sạc xe điện, đi khám bệnh hoặc đưa người nhà đến khu vui chơi.
+* **Mua sắm online:** Thường xuyên tìm hiểu và nhắn tin hỏi sản phẩm, size, màu sắc với các shop trên Facebook hoặc Zalo.
+* **Hỗ trợ gia đình từ xa:** Nhắc lịch khám, giờ uống thuốc, hỗ trợ xử lý giấy tờ
+* **Làm thủ tục hành chính:** Thỉnh thoảng phải tìm hiểu và thực hiện các thủ tục cá nhân tại cơ quan hành chính.
+* **Quan sát công việc của người quen:** Qua bạn bè và người quen làm chủ shop, kế toán, HR hoặc nhân viên tổng đài, tôi có thể quan sát thêm những công việc lặp lại và các vấn đề họ thường gặp trong công việc hằng ngày.
 
 ---
 
-## Phase 1 — Scan 5+ problems (tối thiểu 5, khuyến khích 8-10)
+## Phase 1 — Scan 5+ problems
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 | AI có thể tốt hơn | **Tập thể dục tại nhà:** Người đi làm muốn tập thể dục giảm cân nhưng không biết tập gì phù hợp, xem YouTube quá chung chung, không có ai nhắc nhở theo dõi tiến độ nên toàn bỏ cuộc sau 2 tuần. | Người đi làm văn phòng muốn cải thiện sức khỏe | 7/10 đồng nghiệp nói "có tập rồi bỏ" ít nhất 2 lần/năm do không thấy kết quả và lười. |
-| 2 | Tốn thời gian | **Khám bệnh quy mô lớn:** Đi khám bệnh viện công (Bạch Mai, Việt Đức) phải đến lấy số từ 5-6h sáng, chờ 2-3 tiếng mới tới lượt vì không biết trước thứ tự hay tình trạng phòng khám. | Bệnh nhân đi khám ngoại trú; người già đi một mình | Mất trọn 1 buổi sáng (4-5 tiếng). Bệnh viện Bạch Mai tiếp nhận 5000-7000 lượt/ngày. Khảo sát 10 người thì 9 người sợ nhất là khâu "ngồi chờ". |
-| 3 | Lặp lại | **Thủ tục hành chính:** Đi làm giấy tờ (CCCD, sổ đỏ, xin phép xây dựng), đọc hướng dẫn trên mạng không hiểu rõ chữ "bản sao" hay "bản chính", chuẩn bị thiếu, đến phường bị trả về. | Người dân đi làm thủ tục; cán bộ 1 cửa | Phải đi lại 2-3 lần/thủ tục. Mỗi lần mất nửa ngày nghỉ phép (thiệt hại 200-300k thu nhập). |
-| 4 | Lặp lại | **Mua sắm online (FB/Zalo):** Khách nhắn hỏi "áo này màu đen còn size M không?", nhân viên trực page phải chạy check kho thủ công rồi mới rep, trả lời chậm làm rớt khách. | Khách mua hàng online; nhân viên trực page / chủ shop | Khách chờ 15-30 phút mới được rep. Nhân viên lặp lại quy trình check kho 50-100 lần/ngày. |
-| 5 | Pain từ người khác | **Hỗ trợ gia đình (Nhắc thuốc):** Ông bà/bố mẹ có bệnh mãn tính nhưng hay quên giờ uống thuốc. Con cháu đi làm xa gọi điện nhắc thì ảnh hưởng công việc, lúc nhớ lúc quên. | Người cao tuổi uống thuốc hằng ngày; con cháu ở xa | Quên uống thuốc trung bình 2-3 lần/tuần. Gây lo lắng và nguy hiểm sức khỏe. |
-| 6 | Tốn thời gian | **Hỗ trợ gia đình (Thông báo trường):** Group Zalo phụ huynh mỗi ngày có 30-50 tin nhắn rác (phụ huynh hỏi đáp). Thông báo quan trọng của giáo viên bị trôi mất. | Phụ huynh; người nhà theo dõi giúp | Mất 10-15 phút cuộn Zalo mỗi tối, hay bị lỡ deadline đóng tiền hoặc quên lịch nghỉ học. |
-| 7 | Pain từ người khác | **Công việc người quen (HR/Kế toán):** Cuối tháng HR tổng hợp công cho 100 nhân sự từ máy chấm công. Có người quên bấm vân tay, quên xin phép, phải dò tay từng log. | Nhân viên HR; Kế toán tính lương | Mất 2-3 ngày cuối tháng chỉ để chốt công. Sai sót tính lương xảy ra 3-5 ca/tháng. |
-| 8 | Tốn thời gian | **Dịch vụ gọi xe (Grab/Xanh SM):** Đặt xe giờ cao điểm/trời mưa, tài xế nhận cuốc nhưng kẹt xe đứng im, bắt khách chờ 15 phút rồi mới báo hủy. | Hành khách đi làm/đi họp; tài xế | Bị trễ giờ 15-30 phút, phải đổi qua lại giữa 3-4 app để tìm xe. |
+| 1 | AI có thể tốt hơn | **Tập thể dục tại nhà:** Nhiều người muốn tập thể dục để giảm cân hoặc cải thiện sức khỏe nhưng không biết nên tập như thế nào. Các video trên YouTube thường khá chung chung và không phù hợp với từng người. Sau một thời gian, một số người bỏ tập vì không thấy tiến bộ hoặc không có ai nhắc nhở. | Người đi làm văn phòng muốn tập thể dục | Qua trao đổi với một số người quen và đồng nghiệp, tôi nhận thấy khá nhiều người từng bắt đầu tập rồi bỏ sau một thời gian. Đây là tình trạng được nhắc đến khá thường xuyên khi nói về việc tập luyện. |
+| 2 | Tốn thời gian | **Khám bệnh ở bệnh viện lớn:** Khi đi khám ở các bệnh viện công đông bệnh nhân, người bệnh thường phải đến sớm và chờ ở nhiều bước. Người bệnh cũng khó biết trước phòng nào đang đông hoặc còn bao nhiêu người trước mình. | Bệnh nhân đi khám ngoại trú, đặc biệt là người lớn tuổi | Qua trải nghiệm và trao đổi với người từng đi khám, thời gian chờ có thể kéo dài khá lâu và chiếm phần lớn thời gian của một buổi khám. |
+| 3 | Lặp lại | **Thủ tục hành chính:** Khi làm một số giấy tờ, người dân thường phải tìm hướng dẫn trên mạng rồi tự chuẩn bị hồ sơ. Một số yêu cầu như bản sao, bản chính hoặc giấy tờ đi kèm có thể gây khó hiểu. Nếu chuẩn bị thiếu thì phải quay lại bổ sung. | Người dân làm thủ tục; cán bộ tiếp nhận hồ sơ | Có những trường hợp phải đi lại nhiều lần cho cùng một thủ tục. Mỗi lần đi lại đều mất thêm thời gian và có thể ảnh hưởng đến công việc. |
+| 4 | Lặp lại | **Mua hàng qua Facebook/Zalo:** Khách thường hỏi những câu giống nhau như “còn size M không?”, “màu đen còn không?”. Nhân viên phải tự kiểm tra kho rồi mới trả lời. Khi có nhiều tin nhắn, việc phản hồi có thể chậm và ảnh hưởng đến trải nghiệm mua hàng. | Khách mua hàng; nhân viên trực page/chủ shop | Qua quan sát công việc của một số shop, các câu hỏi về tồn kho, size và màu thường lặp lại nhiều lần trong ngày. |
+| 5 | Pain từ người khác | **Nhắc người thân uống thuốc:** Người lớn tuổi hoặc người phải uống thuốc hằng ngày đôi khi quên giờ uống. Người thân ở xa phải gọi điện hoặc nhắn tin nhắc, nhưng không phải lúc nào cũng nhớ đúng thời điểm. | Người uống thuốc hằng ngày; người thân hỗ trợ | Qua trao đổi với người quen, có trường hợp người thân phải thường xuyên nhắc giờ uống thuốc. Mức độ và tần suất quên thuốc khác nhau tùy từng người. |
+| 6 | Tốn thời gian | **Thông báo trong nhóm Zalo phụ huynh:** Các nhóm phụ huynh thường có nhiều tin nhắn hỏi đáp trong ngày. Những thông báo quan trọng của giáo viên có thể bị trôi, khiến phụ huynh phải kéo lại để tìm. | Phụ huynh; người thân theo dõi việc học của trẻ | Qua quan sát các nhóm chat gia đình/trường học, thông báo quan trọng có thể bị lẫn giữa nhiều tin nhắn khác. Người dùng phải dành thêm thời gian để kiểm tra và tìm lại thông tin. |
+| 7 | Pain từ người khác | **Chốt công cho nhân viên:** Cuối tháng, HR hoặc kế toán phải kiểm tra dữ liệu chấm công. Những trường hợp quên chấm công, quên xin phép hoặc dữ liệu bị thiếu thường phải kiểm tra thủ công. | Nhân viên HR; kế toán; nhân viên trong công ty | Qua chia sẻ từ người quen làm HR/kế toán, việc kiểm tra các trường hợp thiếu hoặc sai dữ liệu chấm công có thể mất khá nhiều thời gian vào cuối tháng. |
+| 8 | Tốn thời gian | **Gọi xe vào giờ cao điểm:** Khi trời mưa hoặc vào giờ cao điểm, tài xế có thể nhận chuyến nhưng bị kẹt xe. Người đặt xe phải chờ khá lâu rồi mới biết tài xế hủy chuyến hoặc phải tìm xe khác. | Người đi làm/đi họp; tài xế | Qua trải nghiệm sử dụng các ứng dụng gọi xe, thời gian chờ có thể tăng đáng kể vào giờ cao điểm hoặc khi thời tiết xấu. |
 
-> Gợi ý tự soi: 8 problems đã bao phủ đầy đủ các bối cảnh yêu cầu: Tập thể dục, dịch vụ khám bệnh, thủ tục hành chính, mua sắm online, gọi xe, hỗ trợ gia đình từ xa và công việc người quen.
+### AI đã dùng ở Phase 1 (nếu có)
 
-**AI đã dùng ở Phase 1 (nếu có):**
-- Prompt đã hỏi: Từ danh sách bối cảnh hằng ngày (dịch vụ lớn, mua sắm, gia đình, hành chính) và lăng kính cá nhân (tập thể dục), yêu cầu AI mổ xẻ ra 8 problems cụ thể.
-- Ý dùng được: Tách các bối cảnh vĩ mô thành các pain point rất đời thường (đau mỏi bỏ tập, chờ khám bệnh, check size quần áo).
+* **Prompt đã hỏi:** Từ các bối cảnh sinh hoạt hằng ngày như sử dụng dịch vụ lớn, mua sắm, hỗ trợ gia đình và làm thủ tục hành chính, kết hợp với một số vấn đề cá nhân, yêu cầu AI gợi ý và cụ thể hóa thành các problem có thể quan sát được.
+* **Ý dùng được:** AI giúp tách những vấn đề khá rộng thành các tình huống cụ thể hơn, ví dụ việc chờ khám bệnh, khách hỏi size quần áo hoặc người bắt đầu tập thể dục nhưng bỏ giữa chừng.
 
-**Self-check Phase 1:**
-- [x] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
-- [x] Dùng ít nhất 3/4 lăng kính (đã dùng cả 4)
-- [x] Không có dòng chung chung kiểu "mất nhiều thời gian"
+### Self-check Phase 1
+
+* [x] Có 5+ problems, mỗi problem có actor và dấu hiệu cụ thể.
+* [x] Đã sử dụng cả 4 lăng kính.
+* [x] Các problem tập trung vào một tình huống cụ thể thay vì chỉ nói chung chung như “mất nhiều thời gian”.
+* [x] Các số liệu chưa có nguồn được hạn chế sử dụng hoặc chỉ xem như quan sát ban đầu.
 
 ---
 
@@ -46,247 +49,320 @@
 
 ### 2.1. Chọn top 3
 
-Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottleneck ở 1 bước, impact đo được. Loại bài quá rộng.
-
-| Rank | Problem (copy từ bảng scan) | Vì sao chọn (2-3 ý) | Điều còn chưa chắc |
+| Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | #1 — Cá nhân hóa kế hoạch tập thể dục tại nhà chống bỏ cuộc | Actor rõ (người đi làm văn phòng), pain thật (70% người bỏ cuộc sau 2 tuần), có thể can thiệp AI tạo lịch trình và tracking, dễ demo bằng text-chat | Chưa rõ AI có thực sự tạo ra bài tập cá nhân hóa hơn YouTube không hay chỉ là văn bản chung chung |
-| 2 | #2 — Chờ khám bệnh viện công mất nửa ngày vì không biết trước tình trạng phòng khám | Actor rõ (bệnh nhân + nhân viên), workflow vẽ được (lấy số → chờ → khám), bottleneck đo được (2-3 tiếng chờ), impact rất lớn | Chưa rõ bệnh viện có hệ thống quản lý hàng đợi (HIS) hiện tại có API mở không |
-| 3 | #3 — Làm thủ tục hành chính phải đi 2-3 lần vì thiếu giấy tờ | Workflow rõ (tra hướng dẫn → chuẩn bị hồ sơ → đến UBND → bị trả về), 7/10 người gặp, so sánh được Rule vs AI | Chưa rõ mỗi thủ tục khác nhau bao nhiêu, luật thay đổi AI có update kịp không |
-
-### 2.2. Problem Cards chi tiết (lặp lại cho cả 3 cards)
+| 1 | **#1 — Cá nhân hóa kế hoạch tập thể dục tại nhà để hạn chế bỏ cuộc** | Vấn đề khá gần với cuộc sống của nhiều người đi làm. Quy trình hiện tại đơn giản và dễ mô tả. AI có thể hỗ trợ lập kế hoạch và theo dõi quá trình tập. | Chưa rõ nguyên nhân chính khiến người dùng bỏ tập là do bài tập không phù hợp, thiếu thời gian hay thiếu động lực. Cũng chưa rõ AI có giúp cải thiện việc duy trì tốt hơn cách hiện tại hay không. |
+| 2 | **#2 — Giảm thời gian chờ khi khám ở bệnh viện công** | Vấn đề dễ quan sát, ảnh hưởng trực tiếp đến trải nghiệm của người bệnh và có nhiều bước chờ trong quy trình. Có thể thử giải quyết bằng việc ước tính thời gian chờ. | Chưa rõ dữ liệu về số người đang chờ, thời gian khám và tình trạng từng phòng có thể lấy theo thời gian thực hay không. |
+| 3 | **#3 — Hướng dẫn chuẩn bị hồ sơ hành chính để hạn chế phải đi lại** | Quy trình tương đối rõ: tìm thông tin → chuẩn bị hồ sơ → đến nơi → kiểm tra hồ sơ. Nếu chuẩn bị thiếu thì người dân phải mất thêm thời gian để quay lại. | Chưa rõ những loại thủ tục nào có nhu cầu cao nhất và mức độ khó khi chuẩn bị hồ sơ khác nhau như thế nào. |
 
 ---
 
-#### Problem Card #1 — Cá nhân hóa kế hoạch tập thể dục tại nhà chống bỏ cuộc
+### 2.2. Problem Cards
 
-```text
-Problem 1 câu:
-Người làm văn phòng muốn tập thể dục giảm cân/cải thiện sức khỏe nhưng thường bỏ cuộc sau 2 tuần vì video trên YouTube quá chung chung, không phù hợp thể trạng, thiếu sự theo dõi tiến độ và nhắc nhở (accountability).
+#### Problem Card #1 — Cá nhân hóa kế hoạch tập thể dục tại nhà để hạn chế bỏ cuộc
 
-Actor:
-Người làm văn phòng (25-40 tuổi), bận rộn, muốn tập tại nhà/công viên (không gym).
+##### Problem 1 câu
 
-Thời điểm / bối cảnh:
-Mỗi khi bắt đầu "chiến dịch" tập luyện mới (thường là sau dịp lễ tết hoặc khi thấy sức khỏe giảm sút). 
+Người làm văn phòng muốn tập thể dục để giảm cân hoặc cải thiện sức khỏe nhưng có thể bỏ cuộc sau một thời gian vì không biết chọn bài tập phù hợp, khó duy trì lịch tập và không có người theo dõi hoặc nhắc nhở.
 
-Current workflow 3-7 bước:
-1. Quyết tâm tập luyện
-2. Lên YouTube search "bài tập giảm mỡ 30 phút tại nhà"
-3. Chọn bừa 1 video có thumbnail bắt mắt
-4. Cố gắng tập theo video nhưng thấy quá sức hoặc không hợp (đau gối, đau lưng)
-5. Tập được 3-5 ngày thì nghỉ 1 ngày vì bận/mệt
-6. Quên lịch, không ai nhắc nhở → bỏ cuộc
-7. Vài tháng sau lặp lại từ bước 1
+##### Actor
 
-Bottleneck:
-Bước 4 + 6 — Chọn sai bài tập và thiếu nhắc nhở: Video không điều chỉnh theo phản hồi cơ thể (đau cơ, mệt). Thiếu cơ chế accountability (theo dõi tiến độ, tạo động lực khi lười).
+Người làm văn phòng khoảng 25–40 tuổi, bận rộn và muốn tập tại nhà hoặc ngoài công viên thay vì đến phòng gym.
 
-Impact:
-Tỷ lệ bỏ cuộc cực cao: 7/10 đồng nghiệp bỏ cuộc ít nhất 2 lần/năm. Không đạt được mục tiêu sức khỏe (giảm cân, cải thiện thể lực), tốn thời gian search lại từ đầu mỗi lần "quyết tâm" lại.
+##### Thời điểm / bối cảnh
 
-Success metric:
-Tăng tỷ lệ duy trì tập luyện (retention rate) qua tuần thứ 4 từ <30% lên >70%. Người dùng hoàn thành ít nhất 3 buổi tập/tuần.
+Thường xảy ra khi một người bắt đầu một kế hoạch tập luyện mới, chẳng hạn sau Tết, sau kỳ nghỉ hoặc khi cảm thấy sức khỏe và cân nặng có vấn đề.
 
-Non-AI alternative:
-Thuê Personal Trainer (PT) online. Rất hiệu quả nhưng đắt đỏ (1-2 triệu/tháng), không phù hợp với số đông. App tập luyện như Nike Training Club có sẵn các plan, nhưng ít tương tác và không điều chỉnh linh hoạt theo từng ngày.
+##### Current workflow
 
-AI hypothesis:
-Chatbot AI đóng vai trò PT online: hỏi han thể trạng, mục tiêu, dụng cụ có sẵn → tạo lịch tập tuần. Cuối mỗi ngày hỏi "hôm nay tập sao rồi, có đau chỗ nào không?" → điều chỉnh bài tập ngày mai cho phù hợp (VD: đau gối → đổi bài tập không nhảy). Nhắc nhở qua Zalo/Mess, tạo động lực cá nhân hóa.
+1. Quyết định bắt đầu tập luyện.
+2. Lên YouTube tìm các video như “bài tập giảm mỡ 30 phút”.
+3. Chọn một video dựa trên tiêu đề hoặc hình ảnh.
+4. Tập theo video nhưng có thể thấy quá sức hoặc không phù hợp.
+5. Sau vài ngày, bỏ một buổi vì bận hoặc mệt.
+6. Không có ai theo dõi hoặc nhắc nên dễ bỏ luôn.
+7. Một thời gian sau lại bắt đầu lại từ đầu.
 
-Quick gut:
-[ ] No AI / process fix
-[ ] Rule
-[x] Workflow
-[ ] Agent
-[ ] Chưa biết
-```
+##### Bottleneck
 
-**Draft workflow Card #1** (ASCII):
+Có hai điểm cần kiểm chứng:
 
-```text
-CURRENT STATE — Bỏ cuộc sau 2 tuần
+* **Chọn bài tập:** Video được thiết kế cho nhiều người nên không phải lúc nào cũng phù hợp với khả năng của từng người.
+* **Duy trì:** Khi người dùng bỏ một vài buổi, không có cơ chế theo dõi hoặc nhắc nhở nên việc quay lại tập có thể khó hơn.
 
-[1. Search YouTube: 10'] → [2. Chọn video: 5']
-→ [3. Tập theo (chung chung, dễ quá sức): 30']  <-- bottleneck (chọn sai bài)
-→ [4. Nghỉ 1 buổi do mệt/bận] → [5. Không ai nhắc → Bỏ cuộc]  <-- bottleneck (thiếu accountability)
+##### Impact
 
-FUTURE STATE — Duy trì > 4 tuần
+Người dùng có thể mất thời gian tìm lại kế hoạch mới và không đạt được mục tiêu tập luyện ban đầu. Tuy nhiên, cần khảo sát thêm để xác định nguyên nhân bỏ tập phổ biến nhất trước khi kết luận rằng việc thiếu cá nhân hóa là nguyên nhân chính.
 
-[1. 🟢 Chat với AI mô tả thể trạng/mục tiêu: 5']
-→ [2. 🔵 AI tạo plan tuần cá nhân hóa: 1']
-→ [3. 🟢 Tập theo plan: 30']
-→ [4. 🔵 AI nhắn tin hỏi thăm + check-in tiến độ: cuối ngày]
-→ [5. 🟢 Người dùng feedback "hơi đau gối": 1']  <-- human boundary
-→ [6. 🔵 AI tự động điều chỉnh bài tập ngày mai (bỏ bài nhảy): 1']
-→ [7. 🔵 AI nhắc nhở, động viên tạo thói quen]
+##### Success metric
 
-Fallback: AI đưa bài tập quá khó/nguy hiểm → Có nút "Report bài tập không phù hợp" và cảnh báo y tế "ngừng tập nếu thấy đau nhói".
-```
+* Theo dõi số buổi tập người dùng hoàn thành mỗi tuần.
+* Theo dõi tỷ lệ người tiếp tục tập đến tuần thứ 4.
+* So sánh kết quả trước và sau khi sử dụng prototype để xem việc nhắc nhở và điều chỉnh lịch tập có tạo ra khác biệt hay không.
 
----
+##### Non-AI alternative
 
-#### Problem Card #2 — Giảm thời gian chờ khám bệnh viện công bằng dự đoán tình trạng phòng khám
+Có thể thuê PT online hoặc sử dụng các app tập luyện có sẵn. PT có khả năng theo sát người tập nhưng chi phí cao hơn. Các app có sẵn nhiều bài tập nhưng mức độ điều chỉnh theo phản hồi từng ngày có thể hạn chế.
 
-```text
-Problem 1 câu:
-Người dân đi khám bệnh viện công mất 4-5 tiếng (phần lớn là chờ đợi) vì không biết trước phòng nào đông, bác sĩ nào có mặt, và thứ tự hàng đợi thực tế — dẫn đến phải đến rất sớm "cho chắc" hoặc chờ mòn mỏi tại chỗ.
+##### AI hypothesis
 
-Actor:
-Bệnh nhân đi khám ngoại trú tại bệnh viện công (Bạch Mai, Việt Đức...)
+AI có thể đóng vai trò như một PT online ở mức cơ bản. Người dùng cung cấp mục tiêu, thể trạng và dụng cụ đang có, sau đó AI đề xuất lịch tập.
 
-Thời điểm / bối cảnh:
-Mỗi lần đi khám bệnh (định kỳ hoặc phát sinh). Đặc biệt nặng nề vào sáng thứ 2-6.
+Sau mỗi buổi, người dùng có thể phản hồi như “hôm nay hơi mệt” hoặc “đầu gối hơi đau”. AI có thể dựa trên phản hồi đó để đề xuất bài tập tiếp theo với cường độ phù hợp hơn.
 
-Current workflow 3-7 bước:
-1. Đến bệnh viện từ 5-6h sáng, xếp hàng lấy số thứ tự
-2. Chờ gọi tên tại quầy tiếp nhận (30-60 phút)
-3. Đóng tiền khám, nhận phiếu khám
-4. Đến phòng khám chuyên khoa, ngồi chờ (1-2 tiếng)
-5. Khám bác sĩ (10-15 phút)
-6. Đi làm xét nghiệm / chụp chiếu nếu có (chờ thêm 30-60 phút)
-7. Quay lại bác sĩ đọc kết quả + lấy thuốc (chờ 30-45 phút nữa)
+AI cũng có thể nhắc người dùng về lịch tập và theo dõi số buổi đã hoàn thành.
 
-Bottleneck:
-Bước 2 + 4 — chờ đợi: tổng 2-3 tiếng chờ thuần túy vì không có thông tin real-time → ai cũng đến sớm "phòng hờ" → nghẽn cục bộ buổi sáng.
+##### Quick gut
 
-Impact:
-Mỗi lần khám mất nửa ngày → phải nghỉ làm. Bệnh viện Bạch Mai: 5000-7000 lượt/ngày. Nhiều người trì hoãn khám vì sợ chờ.
+* [ ] No AI / process fix
+* [ ] Rule
+* [x] Workflow
+* [ ] Agent
+* [ ] Chưa biết
 
-Success metric:
-Giảm thời gian chờ trung bình từ 2-3 tiếng xuống dưới 45 phút. Bệnh nhân biết trước thời gian dự kiến được khám (sai số ±15 phút).
+##### Draft workflow Card #1
 
-Non-AI alternative:
-Hệ thống hiển thị số thứ tự real-time trên màn hình — nhưng chỉ biết "bạn số 47" mà không biết "còn bao lâu".
+**CURRENT STATE — Dễ bỏ cuộc**
 
-AI hypothesis:
-Dựa trên dữ liệu lịch sử (số lượt khám/phòng, thời gian khám trung bình/bác sĩ) → AI dự đoán thời gian chờ ước tính. Gửi Zalo nhắc bệnh nhân "đến lúc 9h15, dự kiến khám lúc 9h30".
+`[1. Tìm video] → [2. Chọn video]`
 
-Quick gut:
-[ ] No AI / process fix
-[ ] Rule
-[x] Workflow
-[ ] Agent
-[ ] Chưa biết
-```
+→ `[3. Tập theo video]` ← **Có thể không phù hợp**
 
-**Draft workflow Card #2** (ASCII):
+→ `[4. Bỏ một buổi vì bận/mệt]`
 
-```text
-CURRENT STATE — 4-5 tiếng/lần khám
+→ `[5. Không có ai theo dõi → dễ bỏ tập]`
 
-[1. Đến BV 5-6h: 0'] → [2. Lấy số + chờ tiếp nhận: 30-60']  <-- chờ
-→ [3. Đóng tiền: 10'] → [4. Chờ phòng khám: 1-2h]  <-- bottleneck
-→ [5. Khám BS: 10-15'] → [6. XN/chụp chiếu + chờ: 30-60']
-→ [7. Đọc KQ + lấy thuốc: 30-45']
+**FUTURE STATE — Theo dõi và điều chỉnh**
 
-FUTURE STATE — 1.5-2 tiếng/lần khám
+`[1. Người dùng mô tả mục tiêu + thể trạng]`
 
-[1. 🔵 AI gợi ý khung giờ vắng + nhắc lịch qua Zalo]
-→ [2. Bệnh nhân đến đúng giờ gợi ý: 0']
-→ [3. Tiếp nhận nhanh (đã đặt trước): 5-10']
-→ [4. 🔵 AI ước tính "còn ~15 phút" → bệnh nhân đi dạo thay vì xếp hàng: 15']
-→ [5. 🟢 Khám BS: 10-15']  <-- human giữ nguyên
-→ [6. XN + lấy thuốc: 30-45']
+→ `[2. AI đề xuất lịch tập]`
 
-Fallback: Khó khăn kỹ thuật lấy API từ hệ thống y tế đóng.
-```
+→ `[3. Người dùng tập theo lịch]`
+
+→ `[4. Người dùng phản hồi sau buổi tập]`
+
+→ `[5. AI điều chỉnh bài tiếp theo]`
+
+→ `[6. AI nhắc lịch và theo dõi tiến độ]`
+
+**Human boundary:** Người dùng vẫn tự quyết định có thực hiện bài tập hay không. Nếu có đau bất thường hoặc vấn đề sức khỏe, AI không thay thế bác sĩ hoặc PT.
+
+**Fallback:** Nếu AI đề xuất bài không phù hợp, người dùng có thể bỏ bài đó và chọn bài nhẹ hơn. Hệ thống cần có cảnh báo rõ rằng không nên tiếp tục nếu xuất hiện đau bất thường.
 
 ---
 
-#### Problem Card #3 — Chatbot hướng dẫn chuẩn bị hồ sơ hành chính để không phải đi lại nhiều lần
+#### Problem Card #2 — Giảm thời gian chờ khi khám ở bệnh viện công
 
-```text
-Problem 1 câu:
-Người dân làm thủ tục hành chính (đổi CCCD, sổ đỏ) phải đi đến UBND phường/quận 2-3 lần vì lần đầu thiếu giấy tờ (do tra mạng không hiểu rõ), mỗi lần mất nửa ngày nghỉ làm.
+##### Problem 1 câu
 
-Actor:
-Người dân cần làm giấy tờ; cán bộ tiếp nhận hồ sơ.
+Người dân đi khám ở bệnh viện công có thể mất nhiều thời gian vì phải chờ ở nhiều bước nhưng thường không biết trước mình còn phải chờ bao lâu.
 
-Thời điểm / bối cảnh:
-Khi cần làm thủ tục hành chính. Mỗi người có hoàn cảnh khác nhau (VD: khác hộ khẩu, sai tên đệm).
+##### Actor
 
-Current workflow 3-7 bước:
-1. Lên Cổng DVC tìm hướng dẫn thủ tục
-2. Đọc hướng dẫn chung chung, tự đoán giấy tờ
-3. Tự chuẩn bị hồ sơ theo hiểu biết
-4. Đến UBND xếp hàng nộp
-5. Cán bộ kiểm tra → phát hiện thiếu giấy/sai mẫu → trả về
-6. Về nhà bổ sung, đi công chứng
-7. Quay lại UBND lần 2 nộp lại
+Bệnh nhân đi khám ngoại trú tại các bệnh viện công đông bệnh nhân.
 
-Bottleneck:
-Bước 2 + 5 — chuẩn bị hồ sơ: thông tin trên mạng mơ hồ, dẫn đến đến nơi bị trả về.
+##### Thời điểm / bối cảnh
 
-Impact:
-7/10 người phải đi ≥ 2 lần. Mỗi lần mất nửa ngày (nghỉ làm). Cán bộ mất thời gian giải thích lặp lại.
+Mỗi lần đi khám, đặc biệt vào buổi sáng hoặc những thời điểm đông bệnh nhân.
 
-Success metric:
-Giảm số lần đi lại của người dân xuống 1 lần. Tăng tỷ lệ hồ sơ đúng từ lần đầu từ ~30% lên 80%.
+##### Current workflow
 
-Non-AI alternative:
-Cổng dịch vụ công đăng checklist chuẩn. Nhưng người dân không biết mình thuộc "trường hợp" nào để lấy đúng checklist.
+1. Đến bệnh viện và lấy số.
+2. Chờ làm thủ tục tiếp nhận.
+3. Đóng tiền và nhận phiếu khám.
+4. Đến phòng khám chuyên khoa và tiếp tục chờ.
+5. Khám bác sĩ.
+6. Nếu cần thì đi xét nghiệm hoặc chụp chiếu và tiếp tục chờ.
+7. Quay lại bác sĩ đọc kết quả và lấy thuốc.
 
-AI hypothesis:
-Chatbot hỏi-đáp: người dân mô tả tình huống ("tôi muốn đổi CCCD, hộ khẩu quận 7, đang ở quận 2") → AI tra cứu quy định + trả về checklist hồ sơ cá nhân hóa + link tải mẫu đơn mới nhất.
+##### Bottleneck
 
-Quick gut:
-[ ] No AI / process fix
-[ ] Rule
-[x] Workflow
-[ ] Agent
-[ ] Chưa biết
-```
+Thời gian chờ ở quầy tiếp nhận và phòng khám là những điểm có khả năng gây mất nhiều thời gian. Người bệnh thường không có thông tin đầy đủ về số người đang chờ hoặc thời gian dự kiến đến lượt.
 
-**Draft workflow Card #3:**
+##### Impact
 
-```text
-CURRENT STATE — 2-3 lần đi lại
+Một lần đi khám có thể chiếm phần lớn thời gian trong ngày và khiến người đi làm phải thay đổi lịch làm việc. Người lớn tuổi cũng có thể gặp khó khăn khi phải chờ lâu.
 
-[1. Search Cổng DVC: 30'] → [2. Đọc hướng dẫn chung chung: 15']
-→ [3. Tự chuẩn bị (đoán): 60'] → [4. Đến UBND xếp hàng: 1-2h]
-→ [5. Bị trả về vì thiếu giấy: 5']  <-- bottleneck
-→ [6. Bổ sung: 1-3 ngày] → [7. Quay lại nộp]
+##### Success metric
 
-FUTURE STATE — 1 lần đi đúng-đủ
+* Theo dõi thời gian chờ thực tế của người bệnh.
+* So sánh thời gian chờ trước và sau khi có thông tin dự kiến.
+* Kiểm tra mức độ chính xác của thời gian dự đoán nếu có thể lấy được dữ liệu thực tế.
 
-[1. 🟢 Người dân mô tả tình huống cụ thể vào chatbot: 5']
-→ [2. 🔵 AI tra quy định → trả checklist cá nhân hóa + mẫu đơn: 1']
-→ [3. 🟢 Người dân chuẩn bị chuẩn theo checklist: 30']  <-- human boundary
-→ [4. 🔵 AI checklist kiểm tra "đã đủ chưa" trước khi đi: 2']
-→ [5. Đến UBND nộp 1 lần ăn ngay]
+##### Non-AI alternative
 
-Fallback: AI trả checklist sai do luật mới chưa update -> AI luôn kèm lời nhắc "Cập nhật đến ngày X".
-```
+Bệnh viện có thể hiển thị số thứ tự đang được gọi theo thời gian thực. Tuy nhiên, chỉ biết số thứ tự chưa chắc giúp người bệnh biết chính xác còn phải chờ bao lâu.
+
+##### AI hypothesis
+
+Nếu có dữ liệu lịch sử về số bệnh nhân, thời gian khám trung bình và tình trạng của từng phòng, AI có thể ước tính thời gian chờ.
+
+Ví dụ, thay vì chỉ hiển thị “bạn đang ở số 47”, hệ thống có thể đưa ra một khoảng thời gian dự kiến để người bệnh chủ động sắp xếp thời gian.
+
+##### Quick gut
+
+* [ ] No AI / process fix
+* [ ] Rule
+* [x] Workflow
+* [ ] Agent
+* [ ] Chưa biết
+
+##### Draft workflow Card #2
+
+**CURRENT STATE — Chờ ở nhiều bước**
+
+`[1. Đến bệnh viện]`
+
+→ `[2. Lấy số + chờ tiếp nhận]`
+
+→ `[3. Đóng tiền]`
+
+→ `[4. Chờ phòng khám]` ← **Bottleneck**
+
+→ `[5. Khám bác sĩ]`
+
+→ `[6. Xét nghiệm/chụp chiếu + chờ]`
+
+→ `[7. Đọc kết quả + lấy thuốc]`
+
+**FUTURE STATE — Biết trước thời gian chờ**
+
+`[1. Hệ thống ước tính thời gian chờ]`
+
+→ `[2. Bệnh nhân chủ động chọn thời điểm phù hợp]`
+
+→ `[3. Làm thủ tục tiếp nhận]`
+
+→ `[4. Hệ thống cập nhật thời gian chờ]`
+
+→ `[5. Khám bác sĩ]`
+
+→ `[6. Xét nghiệm/lấy thuốc]`
+
+**Fallback:** Nếu bệnh viện không cung cấp dữ liệu theo thời gian thực, hệ thống chỉ nên đưa ra thời gian ước tính dựa trên dữ liệu lịch sử và phải nói rõ đây là dự đoán, không phải thời gian chắc chắn.
 
 ---
 
-### 2.3. Card muốn pitch nhất (chuẩn bị 2 phút)
+#### Problem Card #3 — Hướng dẫn chuẩn bị hồ sơ hành chính để hạn chế phải đi lại
 
-**Card tôi muốn pitch nhất:**
+##### Problem 1 câu
 
-```text
-Card #1 — Cá nhân hóa kế hoạch tập thể dục tại nhà chống bỏ cuộc
-```
+Người dân có thể phải đến cơ quan hành chính nhiều lần vì không hiểu rõ yêu cầu hồ sơ hoặc chuẩn bị thiếu giấy tờ ngay từ lần đầu.
 
-**Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):**
+##### Actor
 
-```text
-Bài toán dễ đồng cảm (70% dân văn phòng từng bỏ cuộc), rõ ràng điểm nghẽn là khâu "duy trì" (accountability), và AI xử lý text-chat/coaching rất hiệu quả so với dùng app truyền thống. Khả năng làm prototype và test nghiệm thu ngay trong lab là cực kỳ cao.
-```
+Người dân cần làm thủ tục hành chính và cán bộ tiếp nhận hồ sơ.
 
-**Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):**
+##### Thời điểm / bối cảnh
 
-```text
-1. Làm sao AI đánh giá được chính xác mức độ "đau" hay "mệt" của người dùng qua text chat để điều chỉnh bài tập an toàn?
-2. AI text chat có đủ tạo động lực (accountability) mạnh bằng người thật (PT) hay không, hay người dùng vẫn dễ dàng lờ đi tin nhắn của bot?
-```
+Khi người dân cần làm một thủ tục mới hoặc gặp một trường hợp không giống với hướng dẫn thông thường.
 
-**AI phản biện Card (nếu có):**
-- Điểm yếu AI chỉ ra: Có thể người dùng thực hiện sai tư thế dẫn đến chấn thương, bot chỉ giao text/ảnh thì rủi ro vẫn còn.
-- Tôi sửa gì: Thêm cảnh báo y tế rõ ràng. Bot chỉ đề xuất các bài tập cơ bản, rủi ro chấn thương thấp (đi bộ, cardio nhẹ). Khuyến cáo ngưng tập ngay nếu đau nhói.
+##### Current workflow
 
-### Self-check nộp phần 01
-- [x] Có 5+ problems + top 3 Cards đủ field
-- [x] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
-- [x] Đã chọn 1 card pitch + câu hỏi challenge
+1. Tìm thủ tục trên Cổng Dịch vụ công.
+2. Đọc các yêu cầu và giấy tờ cần chuẩn bị.
+3. Tự xác định mình thuộc trường hợp nào.
+4. Chuẩn bị hồ sơ.
+5. Đến cơ quan hành chính và xếp hàng.
+6. Cán bộ kiểm tra hồ sơ và phát hiện thiếu hoặc sai giấy tờ.
+7. Người dân về bổ sung rồi quay lại lần nữa.
+
+##### Bottleneck
+
+Điểm khó có thể nằm ở việc **hiểu hướng dẫn và xác định đúng loại hồ sơ cần chuẩn bị**. Người dân có thể đọc thông tin nhưng vẫn không chắc thông tin đó áp dụng cho trường hợp của mình như thế nào.
+
+##### Impact
+
+Nếu hồ sơ thiếu, người dân có thể phải đi lại nhiều lần. Mỗi lần đi lại đều mất thêm thời gian và có thể ảnh hưởng đến công việc.
+
+##### Success metric
+
+* Theo dõi số lần người dùng phải đi lại để hoàn thành một thủ tục.
+* Theo dõi tỷ lệ hồ sơ được chuẩn bị đúng ngay từ lần đầu.
+* So sánh kết quả trước và sau khi sử dụng checklist cá nhân hóa.
+
+##### Non-AI alternative
+
+Có thể xây dựng checklist cố định cho từng thủ tục. Cách này đơn giản và dễ kiểm soát nhưng có thể không xử lý tốt những trường hợp có hoàn cảnh khác nhau.
+
+##### AI hypothesis
+
+Chatbot có thể hỏi người dân một số câu để xác định trường hợp cụ thể, sau đó đưa ra checklist tương ứng.
+
+Ví dụ, người dùng mô tả mình muốn làm thủ tục gì và hiện có những giấy tờ nào. AI có thể dựa trên thông tin từ nguồn chính thức để đưa ra danh sách giấy tờ cần chuẩn bị và các biểu mẫu liên quan.
+
+##### Quick gut
+
+* [ ] No AI / process fix
+* [ ] Rule
+* [x] Workflow
+* [ ] Agent
+* [ ] Chưa biết
+
+##### Draft workflow Card #3
+
+**CURRENT STATE — Có thể phải đi lại nhiều lần**
+
+`[1. Tìm thông tin trên Cổng DVC]`
+
+→ `[2. Đọc hướng dẫn]`
+
+→ `[3. Tự chuẩn bị hồ sơ]`
+
+→ `[4. Đến cơ quan hành chính + xếp hàng]`
+
+→ `[5. Hồ sơ thiếu/sai → phải về bổ sung]` ← **Bottleneck**
+
+→ `[6. Bổ sung giấy tờ]`
+
+→ `[7. Quay lại nộp]`
+
+**FUTURE STATE — Chuẩn bị kỹ trước khi đi**
+
+`[1. Người dân mô tả trường hợp của mình]`
+
+→ `[2. AI hỏi thêm thông tin nếu cần]`
+
+→ `[3. AI đưa checklist hồ sơ + biểu mẫu]`
+
+→ `[4. Người dân tự kiểm tra hồ sơ trước khi đi]`
+
+→ `[5. Đến cơ quan hành chính và nộp hồ sơ]`
+
+**Fallback:** Nếu quy định đã thay đổi hoặc AI không tìm thấy nguồn chính thức, hệ thống phải thông báo rõ và dẫn người dùng đến nguồn chính thức thay vì tự khẳng định thông tin.
+
+---
+
+### 2.3. Card muốn pitch nhất
+
+#### Card tôi muốn pitch nhất
+
+**Card #1 — Cá nhân hóa kế hoạch tập thể dục tại nhà để hạn chế bỏ cuộc**
+
+#### Vì sao?
+
+Đây là vấn đề khá gần với cuộc sống của nhiều người và dễ hiểu khi trình bày. Quy trình hiện tại cũng khá rõ, từ tìm bài tập, tập thử đến bỏ cuộc. Tôi muốn tập trung vào việc giúp người dùng duy trì lịch tập, trong đó AI có thể theo dõi phản hồi và điều chỉnh lịch tập thay vì chỉ đưa ra một kế hoạch cố định.
+
+#### Câu hỏi tôi muốn nhóm challenge
+
+1. AI dựa vào đâu để biết một bài tập có phù hợp với người dùng, đặc biệt khi chỉ nhận được phản hồi bằng text?
+2. Nếu người dùng dễ bỏ qua tin nhắn của AI thì chatbot có thực sự giúp họ duy trì tập luyện tốt hơn hay không?
+
+#### AI phản biện Card
+
+* **Điểm yếu AI chỉ ra:** Người dùng có thể thực hiện sai tư thế hoặc mô tả không chính xác tình trạng của mình. Nếu AI chỉ dựa vào text thì vẫn có rủi ro đưa ra bài tập không phù hợp.
+* **Tôi sửa gì:** Giới hạn phạm vi prototype ở những bài tập cơ bản, cường độ vừa phải và dễ thực hiện. AI không được coi là công cụ chẩn đoán sức khỏe. Khi người dùng báo đau bất thường, hệ thống sẽ khuyến cáo dừng tập và tìm sự tư vấn phù hợp thay vì tiếp tục tự điều chỉnh bài tập.
+
+---
+
+## Self-check nộp phần 01
+
+* [x] Có 5+ problems và đã chọn top 3.
+* [x] Mỗi Problem Card có actor, context, workflow, bottleneck, impact và success metric.
+* [x] Có current state và future state.
+* [x] Có phương án non-AI để so sánh.
+* [x] Có AI hypothesis và fallback.
+* [x] Đã chọn một card để pitch.
+* [x] Có câu hỏi để nhóm challenge điểm yếu của card.
+* [x] Không trình bày các số liệu chưa được kiểm chứng như kết luận chắc chắn.

@@ -6,7 +6,7 @@
 
 - Họ và tên: Đinh Trường An
 - Mã học viên: 2A202602393
-- Nhóm: Nhóm bạn Nguyễn Đức Minh (Trưởng nhóm)
+- Nhóm: Nhóm bạn Nguyễn Đức Minh
 - Candidate problem nhóm chọn: Khó nghĩ ra chiến lược marketing để đưa sản phẩm mới ra thị trường — Giải pháp AI Marketing Kit cho Seller nhỏ lẻ trên sàn TMĐT.
 
 ---
@@ -17,19 +17,19 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | Góp 8 problems đa dạng từ đời sống (tập thể dục, hành chính, bệnh viện) vào danh sách chung. | Cung cấp thêm tư liệu để nhóm có nhiều góc nhìn thực tế, tránh chỉ tập trung vào các bài toán kỹ thuật/code. |
-| Pitch Problem Card | Trình bày bài "Chờ khám bệnh viện công" và "Tập thể dục tại nhà". | Dù không được chọn, nhưng lúc phân tích điểm nghẽn của bài Khám bệnh đã giúp nhóm thống nhất tiêu chí: phải chọn bài có pain-point thật sự rõ ràng. |
-| Challenge bài của bạn khác | Nêu thắc mắc về bài "Nhận diện sâu bệnh" vì domain nông nghiệp hơi khó tìm người quen để phỏng vấn thực tế trong khuôn khổ bài lab. | Cùng nhóm đánh giá lại tính khả thi của việc lấy data, sau đó cả nhóm quyết định dồn phiếu cho bài AI Marketing Kit của Duy. |
-| Chọn candidate problem | Bỏ phiếu đồng ý chọn bài AI Marketing Kit vì thấy thị trường bán hàng online rất gần gũi và dễ ứng dụng AI (GenAI). | Góp phần giúp nhóm nhanh chóng đạt được sự đồng thuận cao (điểm 34/35) để chuyển sang bước tiếp theo. |
-| Validation / research | **Được phân công mảng Phỏng vấn.** Đã liên hệ và nhắn tin Zalo phỏng vấn 3 người quen làm chủ shop/freelancer (Chị Lan, Anh Tuấn, Bạn Trang). | Gom được một số quote thực tế gửi cho nhóm, giúp nhóm xác nhận đúng Actor mục tiêu là "chủ shop nhỏ, thiếu ngân sách". |
-| Workflow nhóm | Cùng xem và góp ý khi bạn Tùng vẽ sơ đồ, lưu ý khoảng thời gian chờ lâu nhất nằm ở Bước 2-3 (Nghĩ concept). | Giúp team chốt được Current State sát thực tế hơn với bottleneck ngốn từ 120-240 phút. |
-| Problem Statement | Phụ giúp ráp số liệu vào phần "Success Metric" từ các nguồn research nhỏ trên mạng. | Giúp hoàn thiện tiêu chí đo lường (rút thời gian từ 3-7 ngày xuống dưới 2 giờ) để bài báo cáo có con số cụ thể. |
-| Rule / Workflow / Agent | Góp ý không nên để Agent tự động nạp tiền chạy ads vì các shop nhỏ sợ rủi ro tiêu nhầm tiền. | Team cùng thống nhất dùng Workflow với các bước Human Boundary (có người duyệt) cho an toàn. |
+| Scan cá nhân | Đề xuất 8 bài toán dựa trên các vấn đề thực tiễn (hành chính, y tế, tiêu dùng). | Cung cấp danh sách đầu vào đa dạng để nhóm có dữ liệu đối chiếu trước khi thu hẹp phạm vi. |
+| Pitch Problem Card | Trình bày 2 bài toán: "Chờ khám bệnh" và "Tập thể dục". | Hỗ trợ nhóm xác định tiêu chí đánh giá: bài toán cần có điểm nghẽn đo lường được và khả thi về mặt thu thập dữ liệu. |
+| Challenge bài của bạn khác | Phản biện tính khả thi của bài "Nhận diện sâu bệnh" do khó khăn trong việc tiếp cận tập dữ liệu người dùng cuối. | Giúp nhóm loại trừ rủi ro thiếu dữ liệu kiểm chứng và quyết định tập trung vào bài AI Marketing Kit. |
+| Chọn candidate problem | Đồng ý bình chọn cho bài AI Marketing Kit dựa trên tính khả thi thương mại và khả năng ứng dụng GenAI. | Giúp nhóm nhanh chóng đạt được đồng thuận để chuyển sang giai đoạn phân tích sâu. |
+| Validation / research | Thực hiện phỏng vấn 3 người dùng thực tế (chủ shop online quy mô nhỏ) qua Zalo. | Trích xuất được insight cốt lõi: điểm nghẽn nằm ở tư duy định hướng concept, không phải thao tác đăng bài. |
+| Workflow nhóm | Phân tích quy trình hiện tại (Current State) và xác định thời gian thắt cổ chai ở bước nghiên cứu concept. | Cung cấp dữ liệu để hoàn thiện sơ đồ quy trình với độ trễ 120-240 phút cho một tác vụ. |
+| Problem Statement | Hỗ trợ tìm kiếm số liệu tham chiếu để thiết lập Success Metric (giảm thời gian từ 3-7 ngày xuống dưới 2 giờ). | Đảm bảo phần Problem Statement có tiêu chí nghiệm thu định lượng, rõ ràng. |
+| Rule / Workflow / Agent | Bác bỏ phương án dùng Agent tự động nạp tiền và chạy quảng cáo dựa trên dữ liệu phỏng vấn người dùng. | Hướng nhóm đến quyết định sử dụng Workflow có chốt chặn kiểm duyệt (Human-in-the-loop). |
 
 **Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
 
 ```text
-Phần tôi thấy mình đóng góp hữu ích nhất là ở khâu Validation (Phase 4). Bằng việc nhanh chóng liên hệ phỏng vấn 3 người quen bán hàng online, tôi đã mang về các quote thực tế xác nhận nỗi lo "bí ý tưởng" của họ. Dữ liệu này giúp củng cố thêm niềm tin để cả nhóm cùng chốt phương án làm Workflow tập trung vào concept marketing.
+Đóng góp cụ thể nhất của tôi là ở khâu Validation (Phase 4). Thông qua phỏng vấn 3 chủ shop, tôi xác nhận được rủi ro tài chính nếu hệ thống tự động hóa quảng cáo; thông tin này làm cơ sở để nhóm quyết định chọn cấu trúc Workflow (có chốt chặn phê duyệt của con người) thay vì Agent tự trị.
 ```
 
 ---
@@ -38,11 +38,11 @@ Phần tôi thấy mình đóng góp hữu ích nhất là ở khâu Validation 
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan (Cá nhân) | Nhờ AI mổ xẻ 5 chủ đề thành 8 problems. | Giúp đa dạng hóa các tình huống đời sống. | Gợi ý vài ý tưởng viễn vông (ví dụ AI tự lái xe công nghệ). | Tự lọc và bỏ các ý tưởng thiếu tính khả thi, chỉ nộp những gì gần gũi nhất. |
-| Validation (Nhóm) | **Không dùng** | - | - | Tự dùng Zalo nhắn tin hỏi thăm người quen bán hàng để lấy câu trả lời thật, vì AI không thể bịa ra insight của thị trường Việt Nam. |
-| Workflow (Nhóm) | Nhờ AI hỗ trợ dóng hàng và format bảng markdown để gửi vào group chung. | Tiết kiệm thời gian căn lề bảng biểu. | AI đôi khi bỏ quên mất phần cột "Ghi chú" hoặc "Fallback" khi tạo bảng. | Đọc lại cẩn thận và tự gõ thêm phần Fallback vào bảng để bài nộp của nhóm không bị thiếu điểm. |
-| Problem Statement | Nhờ AI tra cứu "Tỷ lệ chuyển đổi trung bình" trên TikTok Shop để điền Metric. | Cung cấp benchmark thị trường tham khảo. | AI gợi ý đặt mục tiêu tăng từ <1% lên tới 10%. | Con số 10% trong TMĐT là quá thiếu thực tế. Tôi góp ý với team sửa lại mức mục tiêu hợp lý là 2.0% - 3.0%. |
-| Rule / Workflow / Agent | Hỏi LLM xem làm Agent tự chạy quảng cáo có khả thi không. | Liệt kê ra được các điểm mạnh của tự động hóa hoàn toàn. | Gợi ý "Nên dùng Agent để bài làm thêm ấn tượng". | Tôi không làm theo vì thấy rủi ro tài chính cho user rất lớn. Đem ý này ra bàn bạc và cả nhóm cùng chốt phương án Workflow an toàn hơn. |
+| Scan (Cá nhân) | Dùng LLM để mở rộng danh sách 5 chủ đề thành 8 bài toán. | Phân tích nhanh các góc nhìn khác nhau trong đời sống. | AI sinh ra một số bài toán ngoài khả năng kiểm chứng thực tế (ví dụ: tự động hóa kho bãi lớn). | Tôi tự lược bỏ các bài toán vĩ mô và chỉ giữ lại các vấn đề sát với bối cảnh cá nhân. |
+| Validation (Nhóm) | **Không dùng** | - | - | Tự thu thập dữ liệu bằng cách phỏng vấn người dùng thực tế. Việc sử dụng AI sinh dữ liệu giả lập sẽ làm sai lệch kết quả đánh giá sản phẩm. |
+| Workflow (Nhóm) | Dùng AI để định dạng dữ liệu thô thành bảng Markdown. | Tiết kiệm thời gian xử lý định dạng văn bản. | AI bỏ sót trường thông tin "Fallback" trong cấu trúc bảng. | Tôi đối chiếu với tài liệu gốc của lab và bổ sung thủ công cột Fallback để đảm bảo tính toàn vẹn của báo cáo. |
+| Problem Statement | Tra cứu tỷ lệ chuyển đổi trung bình trên sàn TMĐT. | Cung cấp số liệu benchmark tham khảo. | AI đề xuất mức tăng tỷ lệ chuyển đổi thiếu thực tế (tăng lên 10%). | Dựa trên dữ liệu thực tiễn của TMĐT, tôi điều chỉnh mục tiêu xuống biên độ khả thi là 2.0% - 3.0%. |
+| Rule / Workflow / Agent | Yêu cầu AI so sánh giữa Workflow và Agent cho bài toán này. | Liệt kê đầy đủ các ưu điểm của việc tự động hóa. | Khuyến nghị sử dụng Agent để tối ưu hóa toàn bộ quy trình. | Tôi bác bỏ khuyến nghị này do nó vi phạm nguyên tắc quản trị rủi ro tài chính của nhóm. Tôi bảo vệ phương án Workflow. |
 
 > Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
@@ -59,9 +59,9 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
-Lúc đầu khi mang ý tưởng "Tập thể dục tại nhà" đi pitch, tôi rất hy vọng bài của mình sẽ được chọn. Tuy nhiên, sau khi nghe bạn Duy trình bày về dự án AI Marketing Kit cho người bán hàng online, tôi đã tự thay đổi ý kiến. Tôi nhận thấy bài toán của Duy có tệp người dùng sẵn sàng chi trả rõ ràng hơn và khai thác tốt thế mạnh của GenAI hiện tại (kết hợp được cả viết text và tạo ảnh visual). Sự thay đổi này giúp tôi học được cách đánh giá bài toán dựa trên tiềm năng thực tế thay vì cảm xúc cá nhân.
+Ban đầu, tôi đề xuất bài toán "Tập thể dục tại nhà" do tính phổ biến của nó. Tuy nhiên, khi đối chiếu với bài toán "AI Marketing Kit" của thành viên khác, tôi nhận thấy dự án Marketing có tác động kinh tế định lượng rõ ràng hơn và khai thác tốt năng lực xử lý đa phương thức (văn bản và hình ảnh) của công nghệ GenAI hiện tại. Do đó, tôi quyết định thay đổi quan điểm và đồng thuận với lựa chọn của nhóm. 
 
-Trong quá trình làm việc chung, nhóm cũng có lúc hơi cuốn theo hướng "solution-first" khi định để AI tự động đăng bài và chạy ads luôn. Lúc đó, từ những cuộc trò chuyện phỏng vấn với chủ shop, tôi có chia sẻ lại lo lắng của họ: các shop nhỏ rất sợ bị hệ thống tự động trừ lố tiền quảng cáo. Nhờ chia sẻ đó, mọi người cùng nhìn lại và đồng thuận rằng giải pháp tốt nhất là mô hình Workflow có chốt chặn con người (Human-in-the-loop). Cảm giác cùng nhóm tìm ra được 'Boundary' an toàn, vừa giúp công việc nhanh hơn vừa bảo vệ được rủi ro cho người dùng là trải nghiệm tôi thích nhất trong buổi lab này.
+Trong giai đoạn thiết kế giải pháp, nhóm có xu hướng thiên vị công nghệ (solution-first) khi đề xuất xây dựng Agent tự động thực thi và quản lý ngân sách các chiến dịch quảng cáo. Với vai trò phụ trách khâu Validation, tôi đã đối chiếu ý tưởng này với kết quả phỏng vấn người dùng thực tế. Dữ liệu cho thấy các chủ shop quy mô nhỏ đặc biệt e ngại rủi ro mất kiểm soát ngân sách nếu giao quyền tự quyết tài chính cho AI. Dựa trên cơ sở này, tôi đã phản biện và thuyết phục nhóm loại bỏ phương án Agent. Nhóm sau đó thống nhất chuyển sang mô hình Workflow, thiết lập cấu trúc Human-in-the-loop để người dùng trực tiếp phê duyệt nội dung và ngân sách. Việc đóng góp vào quá trình xác định đúng giới hạn tự động hóa (Boundary) này là giá trị lớn nhất tôi mang lại cho dự án.
 ```
 
 ---
