@@ -22,7 +22,7 @@
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 | AI có thể tốt hơn | **Tập thể dục tại nhà:** Nhiều người muốn tập thể dục để giảm cân hoặc cải thiện sức khỏe nhưng không biết nên tập như thế nào. Các video trên YouTube thường khá chung chung và không phù hợp với từng người. Sau một thời gian, một số người bỏ tập vì không thấy tiến bộ hoặc không có ai nhắc nhở. | Người đi làm văn phòng muốn tập thể dục | Qua trao đổi với một số người quen và đồng nghiệp, tôi nhận thấy khá nhiều người từng bắt đầu tập rồi bỏ sau một thời gian. Đây là tình trạng được nhắc đến khá thường xuyên khi nói về việc tập luyện. |
+| 1 | AI có thể tốt hơn | **Tập thể dục tại nhà:** Tôi muốn tập thể dục để giảm cân và cải thiện sức khỏe nhưng không biết nên tập như thế nào cho phù hợp. Các video trên YouTube thường khá chung chung, tập theo dễ bị quá sức hoặc đau cơ. Sau một thời gian, tôi thường bỏ tập vì thấy mệt mỏi và không có ai theo dõi hay nhắc nhở. | Chính bản thân tôi (người đi làm văn phòng muốn tự tập thể dục tại nhà) | Bản thân tôi từng 2-3 lần lên kế hoạch tự tập luyện tại nhà nhưng đều bỏ cuộc sau khoảng 2 tuần do đau mỏi cơ, bận việc và không có ai theo dõi hay đôn đốc duy trì. |
 | 2 | Tốn thời gian | **Khám bệnh ở bệnh viện lớn:** Khi đi khám ở các bệnh viện công đông bệnh nhân, người bệnh thường phải đến sớm và chờ ở nhiều bước. Người bệnh cũng khó biết trước phòng nào đang đông hoặc còn bao nhiêu người trước mình. | Bệnh nhân đi khám ngoại trú, đặc biệt là người lớn tuổi | Qua trải nghiệm và trao đổi với người từng đi khám, thời gian chờ có thể kéo dài khá lâu và chiếm phần lớn thời gian của một buổi khám. |
 | 3 | Lặp lại | **Thủ tục hành chính:** Khi làm một số giấy tờ, người dân thường phải tìm hướng dẫn trên mạng rồi tự chuẩn bị hồ sơ. Một số yêu cầu như bản sao, bản chính hoặc giấy tờ đi kèm có thể gây khó hiểu. Nếu chuẩn bị thiếu thì phải quay lại bổ sung. | Người dân làm thủ tục; cán bộ tiếp nhận hồ sơ | Có những trường hợp phải đi lại nhiều lần cho cùng một thủ tục. Mỗi lần đi lại đều mất thêm thời gian và có thể ảnh hưởng đến công việc. |
 | 4 | Lặp lại | **Mua hàng qua Facebook/Zalo:** Khách thường hỏi những câu giống nhau như “còn size M không?”, “màu đen còn không?”. Nhân viên phải tự kiểm tra kho rồi mới trả lời. Khi có nhiều tin nhắn, việc phản hồi có thể chậm và ảnh hưởng đến trải nghiệm mua hàng. | Khách mua hàng; nhân viên trực page/chủ shop | Qua quan sát công việc của một số shop, các câu hỏi về tồn kho, size và màu thường lặp lại nhiều lần trong ngày. |
@@ -51,7 +51,7 @@
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | **#1 — Cá nhân hóa kế hoạch tập thể dục tại nhà để hạn chế bỏ cuộc** | Vấn đề khá gần với cuộc sống của nhiều người đi làm. Quy trình hiện tại đơn giản và dễ mô tả. AI có thể hỗ trợ lập kế hoạch và theo dõi quá trình tập. | Chưa rõ nguyên nhân chính khiến người dùng bỏ tập là do bài tập không phù hợp, thiếu thời gian hay thiếu động lực. Cũng chưa rõ AI có giúp cải thiện việc duy trì tốt hơn cách hiện tại hay không. |
+| 1 | **#1 — Cá nhân hóa kế hoạch tập thể dục tại nhà để hạn chế bỏ cuộc** | Vấn đề xuất phát từ chính trải nghiệm thực tế của bản thân tôi. Quy trình hiện tại đơn giản và dễ mô tả. AI có thể hỗ trợ lập kế hoạch và theo dõi quá trình tập. | Chưa rõ nguyên nhân chính khiến tôi bỏ tập là do bài tập chưa phù hợp, thiếu thời gian hay thiếu động lực. Cũng chưa rõ AI có giúp tôi duy trì tốt hơn cách tự xem video hay không. |
 | 2 | **#2 — Giảm thời gian chờ khi khám ở bệnh viện công** | Vấn đề dễ quan sát, ảnh hưởng trực tiếp đến trải nghiệm của người bệnh và có nhiều bước chờ trong quy trình. Có thể thử giải quyết bằng việc ước tính thời gian chờ. | Chưa rõ dữ liệu về số người đang chờ, thời gian khám và tình trạng từng phòng có thể lấy theo thời gian thực hay không. |
 | 3 | **#3 — Hướng dẫn chuẩn bị hồ sơ hành chính để hạn chế phải đi lại** | Quy trình tương đối rõ: tìm thông tin → chuẩn bị hồ sơ → đến nơi → kiểm tra hồ sơ. Nếu chuẩn bị thiếu thì người dân phải mất thêm thời gian để quay lại. | Chưa rõ những loại thủ tục nào có nhu cầu cao nhất và mức độ khó khi chuẩn bị hồ sơ khác nhau như thế nào. |
 
@@ -63,54 +63,54 @@
 
 ##### Problem 1 câu
 
-Người làm văn phòng muốn tập thể dục để giảm cân hoặc cải thiện sức khỏe nhưng có thể bỏ cuộc sau một thời gian vì không biết chọn bài tập phù hợp, khó duy trì lịch tập và không có người theo dõi hoặc nhắc nhở.
+Bản thân tôi muốn tập thể dục để giảm cân và cải thiện sức khỏe nhưng thường bỏ cuộc sau khoảng 2 tuần vì không biết chọn bài tập phù hợp với thể trạng, khó duy trì lịch tập và không có ai theo dõi hay nhắc nhở.
 
 ##### Actor
 
-Người làm văn phòng khoảng 25–40 tuổi, bận rộn và muốn tập tại nhà hoặc ngoài công viên thay vì đến phòng gym.
+Chính bản thân tôi (người làm văn phòng 25–40 tuổi, bận rộn, muốn tự tập tại nhà hoặc ngoài công viên thay vì đến phòng gym).
 
 ##### Thời điểm / bối cảnh
 
-Thường xảy ra khi một người bắt đầu một kế hoạch tập luyện mới, chẳng hạn sau Tết, sau kỳ nghỉ hoặc khi cảm thấy sức khỏe và cân nặng có vấn đề.
+Thường xảy ra khi tôi bắt đầu một kế hoạch tập luyện mới, chẳng hạn sau Tết, sau kỳ nghỉ hoặc khi cảm thấy sức khỏe và cân nặng có vấn đề.
 
 ##### Current workflow
 
-1. Quyết định bắt đầu tập luyện.
+1. Tôi quyết định bắt đầu tập luyện.
 2. Lên YouTube tìm các video như “bài tập giảm mỡ 30 phút”.
-3. Chọn một video dựa trên tiêu đề hoặc hình ảnh.
-4. Tập theo video nhưng có thể thấy quá sức hoặc không phù hợp.
-5. Sau vài ngày, bỏ một buổi vì bận hoặc mệt.
-6. Không có ai theo dõi hoặc nhắc nên dễ bỏ luôn.
+3. Tôi chọn một video dựa trên tiêu đề hoặc hình ảnh.
+4. Tôi tập theo video nhưng thấy quá sức hoặc bị đau cơ, mỏi gối.
+5. Sau vài ngày, tôi bỏ một buổi vì bận việc hoặc mệt.
+6. Không có ai theo dõi hay nhắc nhở nên tôi dễ bỏ luôn.
 7. Một thời gian sau lại bắt đầu lại từ đầu.
 
 ##### Bottleneck
 
-Có hai điểm cần kiểm chứng:
+Có hai điểm nghẽn từ trải nghiệm thực tế của tôi:
 
-* **Chọn bài tập:** Video được thiết kế cho nhiều người nên không phải lúc nào cũng phù hợp với khả năng của từng người.
-* **Duy trì:** Khi người dùng bỏ một vài buổi, không có cơ chế theo dõi hoặc nhắc nhở nên việc quay lại tập có thể khó hơn.
+* **Chọn bài tập:** Video được thiết kế chung cho nhiều người nên không phù hợp với thể trạng thực tế của tôi, dễ gây quá sức hoặc đau mỏi.
+* **Duy trì:** Khi tôi bỏ lỡ một vài buổi do bận hoặc mệt, không có cơ chế theo dõi hay nhắc nhở nên việc quay lại tập rất khó khăn.
 
 ##### Impact
 
-Người dùng có thể mất thời gian tìm lại kế hoạch mới và không đạt được mục tiêu tập luyện ban đầu. Tuy nhiên, cần khảo sát thêm để xác định nguyên nhân bỏ tập phổ biến nhất trước khi kết luận rằng việc thiếu cá nhân hóa là nguyên nhân chính.
+Tôi mất thời gian tìm kiếm lại kế hoạch mới nhiều lần và không đạt được mục tiêu cải thiện thể lực ban đầu, dễ cảm thấy nản lòng và mất kỷ luật.
 
 ##### Success metric
 
-* Theo dõi số buổi tập người dùng hoàn thành mỗi tuần.
-* Theo dõi tỷ lệ người tiếp tục tập đến tuần thứ 4.
-* So sánh kết quả trước và sau khi sử dụng prototype để xem việc nhắc nhở và điều chỉnh lịch tập có tạo ra khác biệt hay không.
+* Theo dõi số buổi tập tôi hoàn thành mỗi tuần (mục tiêu 3 buổi/tuần).
+* Theo dõi khả năng duy trì tập luyện liên tục qua tuần thứ 4 mà không bỏ cuộc.
+* So sánh kết quả trước và sau khi có AI nhắc nhở, điều chỉnh bài tập hàng ngày để xem có tạo ra sự khác biệt so với việc tôi tự tập hay không.
 
 ##### Non-AI alternative
 
-Có thể thuê PT online hoặc sử dụng các app tập luyện có sẵn. PT có khả năng theo sát người tập nhưng chi phí cao hơn. Các app có sẵn nhiều bài tập nhưng mức độ điều chỉnh theo phản hồi từng ngày có thể hạn chế.
+Có thể thuê PT online kèm riêng hoặc sử dụng các app tập luyện có sẵn. Thuê PT kèm riêng thì chi phí cao không duy trì lâu dài được. Các app có sẵn bài tập thì mức độ điều chỉnh theo phản hồi mệt mỏi từng ngày của tôi còn rất hạn chế.
 
 ##### AI hypothesis
 
-AI có thể đóng vai trò như một PT online ở mức cơ bản. Người dùng cung cấp mục tiêu, thể trạng và dụng cụ đang có, sau đó AI đề xuất lịch tập.
+AI có thể đóng vai trò như một PT online ở mức cơ bản cho tôi. Tôi cung cấp mục tiêu, thể trạng và dụng cụ đang có, sau đó AI đề xuất lịch tập cá nhân hóa.
 
-Sau mỗi buổi, người dùng có thể phản hồi như “hôm nay hơi mệt” hoặc “đầu gối hơi đau”. AI có thể dựa trên phản hồi đó để đề xuất bài tập tiếp theo với cường độ phù hợp hơn.
+Sau mỗi buổi, tôi phản hồi ngắn gọn như “hôm nay hơi mệt” hoặc “đầu gối hơi đau”. AI có thể dựa trên phản hồi đó để đề xuất bài tập tiếp theo với cường độ phù hợp hơn cho tôi.
 
-AI cũng có thể nhắc người dùng về lịch tập và theo dõi số buổi đã hoàn thành.
+AI cũng có thể nhắc tôi về lịch tập hàng ngày và theo dõi số buổi tôi đã hoàn thành.
 
 ##### Quick gut
 
@@ -126,7 +126,7 @@ AI cũng có thể nhắc người dùng về lịch tập và theo dõi số bu
 
 `[1. Tìm video] → [2. Chọn video]`
 
-→ `[3. Tập theo video]` ← **Có thể không phù hợp**
+→ `[3. Tập theo video]` ← **Quá sức / Không phù hợp**
 
 → `[4. Bỏ một buổi vì bận/mệt]`
 
@@ -134,21 +134,21 @@ AI cũng có thể nhắc người dùng về lịch tập và theo dõi số bu
 
 **FUTURE STATE — Theo dõi và điều chỉnh**
 
-`[1. Người dùng mô tả mục tiêu + thể trạng]`
+`[1. Tôi mô tả mục tiêu + thể trạng]`
 
-→ `[2. AI đề xuất lịch tập]`
+→ `[2. AI đề xuất lịch tập cá nhân hóa]`
 
-→ `[3. Người dùng tập theo lịch]`
+→ `[3. Tôi tập theo lịch]`
 
-→ `[4. Người dùng phản hồi sau buổi tập]`
+→ `[4. Tôi phản hồi sau buổi tập]`
 
 → `[5. AI điều chỉnh bài tiếp theo]`
 
-→ `[6. AI nhắc lịch và theo dõi tiến độ]`
+→ `[6. AI nhắc lịch và theo dõi tiến độ của tôi]`
 
-**Human boundary:** Người dùng vẫn tự quyết định có thực hiện bài tập hay không. Nếu có đau bất thường hoặc vấn đề sức khỏe, AI không thay thế bác sĩ hoặc PT.
+**Human boundary:** Tôi vẫn tự quyết định có thực hiện bài tập hay không. Nếu có đau bất thường hoặc vấn đề sức khỏe, AI không thay thế bác sĩ hoặc PT.
 
-**Fallback:** Nếu AI đề xuất bài không phù hợp, người dùng có thể bỏ bài đó và chọn bài nhẹ hơn. Hệ thống cần có cảnh báo rõ rằng không nên tiếp tục nếu xuất hiện đau bất thường.
+**Fallback:** Nếu AI đề xuất bài không phù hợp, tôi có thể bỏ bài đó và chọn bài nhẹ hơn. Hệ thống cần có cảnh báo rõ rằng tôi không nên tiếp tục nếu xuất hiện đau bất thường.
 
 ---
 
@@ -341,8 +341,8 @@ Ví dụ, người dùng mô tả mình muốn làm thủ tục gì và hiện c
 **Card #1 — Cá nhân hóa kế hoạch tập thể dục tại nhà để hạn chế bỏ cuộc**
 
 #### Vì sao?
-
-Đây là vấn đề khá gần với cuộc sống của nhiều người và dễ hiểu khi trình bày. Quy trình hiện tại cũng khá rõ, từ tìm bài tập, tập thử đến bỏ cuộc. Tôi muốn tập trung vào việc giúp người dùng duy trì lịch tập, trong đó AI có thể theo dõi phản hồi và điều chỉnh lịch tập thay vì chỉ đưa ra một kế hoạch cố định.
+ 
+Đây là vấn đề xuất phát từ chính trải nghiệm thực tế của bản thân tôi (từng nhiều lần bỏ cuộc sau khoảng 2 tuần) nên rất dễ trình bày và đồng cảm. Quy trình hiện tại rõ ràng: từ tìm bài tập, tập thử đến bỏ cuộc. Tôi muốn tập trung vào việc giúp duy trì lịch tập cá nhân, trong đó AI theo dõi phản hồi sau mỗi buổi tập để điều chỉnh cường độ thay vì chỉ đưa ra một kế hoạch cố định.
 
 #### Câu hỏi tôi muốn nhóm challenge
 
